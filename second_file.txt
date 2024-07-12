@@ -1,2 +1,2 @@
-!DOCTYPE SECOND FILE 
+//!DOCTYPE SECOND FILE 
 // this is important for understanding!!
